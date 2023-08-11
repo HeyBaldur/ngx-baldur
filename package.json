@@ -5,6 +5,15 @@
     "name": "HeyBaldur",
     "url": "https://heybaldur.pl"
   },
+  "keywords": [
+    "angular",
+    "angular-pipe",
+    "time-ago",
+    "date-format",
+    "human-readable",
+    "relative-time",
+    "time-conversion"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
